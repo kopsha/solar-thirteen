@@ -1,6 +1,6 @@
-# ☀️ a-13-Month Solar Calendar ☀️
+# ☀️ Solar Thirteen ☀️ sol-13
 
-> _A Harmonized Timekeeping Proposal_
+_An Astronomically Harmonized Timekeeping Proposal_: a slight variation of the [13-month solar calendar](https://en.wikipedia.org/wiki/International_Fixed_Calendar)
 
 ## Overview
 

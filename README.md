@@ -2,15 +2,15 @@
 
 ###### _An Astronomically Harmonized Timekeeping Proposal_
 
-> A slight variation of the [13-month solar calendar](https://en.wikipedia.org/wiki/International_Fixed_Calendar):
-> Current proposal is based on centering the year around the **summer solstice**, anchoring **Sol 1**
-> (_the first day of the seventh month_) as the day **immediately following** the solstice.
-> This places the solar peak of the natural year at the calendar's midpoint, symbolizing full maturity and abundance.
+> A slight variation on the [International Fixed Calendar](https://en.wikipedia.org/wiki/International_Fixed_Calendar),
+> this proposal centers the year around the summer solstice, anchoring Sol 1 (the first day of the seventh month)
+> as the day immediately following the solstice.
+> This places the solar peak of the natural year at the calendar’s midpoint—symbolizing full maturity and abundance.
 >
-> From there, the calendar unfolds symmetrically: six months ascend toward the solstice (growing light),
-> and six descend from it (waning light), mirroring natural rhythms. The start of the year (**Jan 1**)
-> is positioned 168 days earlier, aligning with **deep winter dormancy**, marking a symbolic rebirth that culminates
-> in the solstice's solar climax.
+> The calendar unfolds symmetrically: six months rise toward the solstice (growing light),
+> and six descend from it (waning light), mirroring natural rhythms.
+> The year begins with Jan 1, placed 168 days before the solstice,
+> aligning with deep winter dormancy—a symbolic rebirth that culminates in solar climax.
 
 
 ## Overview

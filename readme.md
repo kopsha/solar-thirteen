@@ -1,4 +1,4 @@
-# ☀️ Solar Thirteen ☀️ sol-13
+# ☀️ Solar Thirteen ☀️ _sol(13)_
 
 > A gentle reimagining of the [International Fixed Calendar](https://en.wikipedia.org/wiki/International_Fixed_Calendar)
 
@@ -156,14 +156,14 @@ _Simulation_: Solar calendars new year day is aligned on Dec 21, 2025 (with the 
 
 | Event             |        Calendar Day        |  Gregorian Equivalent   |
 | ----------------- | -------------------------- | ----------------------- |
-| Winter Solstice   | Aurora, 2025               | \~ December 21, 2025    |
-| Solar year starts | Monday, January 1st, 2026  | \~ December 22, 2025    |
-| Old new year      | Thurs., January 11, 2026   | \~ January 1st, 2026    |
-| Spring Equinox    | Friday, April 5, 2026      | \~ March 20, 2026       |
-| Summer Solstice   | Sunday, Sol 14, 2026       | \~ June 21, 2026        |
-| Autumn Equinox    | Wedns., September 25, 2026 | \~ September 23, 2026   |
-| Solar year ends   | Sunday, December 28, 2026  | \~ December 20, 2026    |
-| Winter Solstice   | Aurora, 2026               | \~ December 21, 2026    |
+| Winter Solstice   | Aurora, 2025               | * December 21, 2025     |
+| Solar year starts | Monday, January 1st, 2026  | * December 22, 2025     |
+| ~Old new year~    | ~Thurs., January 11, 2026~ | * ~January 1st, 2026~   |
+| Spring Equinox    | Friday, April 5, 2026      | * March 20, 2026        |
+| Summer Solstice   | Sunday, Sol 14, 2026       | * June 21, 2026         |
+| Autumn Equinox    | Wedns., September 25, 2026 | * September 23, 2026    |
+| Solar year ends   | Sunday, December 28, 2026  | * December 20, 2026     |
+| Winter Solstice   | Aurora, 2026               | * December 21, 2026     |
 
 
 ---
@@ -171,7 +171,7 @@ _Simulation_: Solar calendars new year day is aligned on Dec 21, 2025 (with the 
 ## Leap Year Rule
 
 * Same complicated shift correction rules **Approx. one leap day (Heliad) every 4 years**
-* Based on Julian principle (\~365.25 average year length)
+* Based on Julian principle (365.25 average year length)
 * Keeps the solstice aligned over centuries
 
 ---

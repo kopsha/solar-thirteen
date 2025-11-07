@@ -1,28 +1,37 @@
 # ☀️ Solar Thirteen ☀️ sol-13
 
-###### _An Astronomically Harmonized Timekeeping Proposal_
+> A gentle reimagining of the [International Fixed Calendar](https://en.wikipedia.org/wiki/International_Fixed_Calendar)
 
-> A slight variation on the [International Fixed Calendar](https://en.wikipedia.org/wiki/International_Fixed_Calendar),
-> this proposal centers the year around the summer solstice, anchoring Sol 1 (the first day of the seventh month)
-> as the day immediately following the solstice.
-> This places the solar peak of the natural year at the calendar’s midpoint -- symbolizing full maturity and abundance.
->
-> The calendar unfolds symmetrically: six months rise toward the solstice (growing light),
-> and six descend from it (waning light), mirroring natural rhythms.
->
-> The year begins on Jan 1, the first day after the winter solstice,
-> aligning with deep dormancy and renewal -- a symbolic rebirth that culminates in solar climax.
+Time, in this vision, is not an indifferent grid — it is a living orbit, a mirror held up to the Sun.
+
+## _An Astronomically Harmonized Timekeeping Proposal_
+
+This calendar begins not in the blaze of summer or the bloom of spring, but in the **stillness
+of the winter solstice** — when the Earth dreams deepest, when light begins again from its
+faintest whisper. From that moment of cosmic hush, the year unfurls like a spiral of breath:  
+six months of ascending brightness, and six of gentle return.
+
+At its heart lies the *month of Sol*, the golden summit, where the *summer solstice* graces the
+*14th or 15th day*. There, the Sun stands proud and complete, midway between shadow and shadow —
+a symbol of maturity, fullness, and the quiet triumph of balance.
+
+Thus the year is not a march, but a breathing pattern: dormancy to dawn, radiance to rest — the
+same rhythm that moves the tides, the crops, the pulse of every living thing.
 
 
 ## Overview
 
-This calendar reform proposes a fixed, solar-aligned calendar composed of **13 months of 28 days**, with **two special days** outside the weekly cycle:
+This proposal envisions a **solar-synchronous calendar** of **13 equal months*, each a perfect
+cycle of **28 days** — _four pristine weeks_ that repeat like stanzas in a song.
+And yet, two days live beyond the reach of any week — the holy pauses in time’s metronome:
+- **Aurora** — the _Rebirth Day_, following the last month; a threshold day when one year dies
+  into light and another is born.
+- **Heliad** — the _Leap of Fire_, a day set every four years after _Junius 28_, restoring harmony
+  with the Sun’s slow drift — a spark cast into time to keep its orbit true.
 
-* **Aurora**: A symbolic year-end "Rebirth Day," following the last month
-* **Heliad**: A leap day inserted every four years in summer to maintain solar alignment
-
-This structure offers perfect regularity (every month has exactly 4 weeks), reliable correspondence with astronomical events, and a symbolic elegance rooted in nature's rhythms.
-
+This structure gives not only mathematical grace — every month alike, every week unbroken — but also
+a symbolic wholeness. The heavens dictate, and the calendar answers, _not with obedience, but with
+reverence_.
 ---
 
 ## Calendar Structure
@@ -31,30 +40,46 @@ This structure offers perfect regularity (every month has exactly 4 weeks), reli
 
 | Month # | Name         | Notes                                             |
 | ------- | ------------ | ------------------------------------------------- |
-| 1       | Ianuarius    | Deep dormancy (post-winter solstice)              |
-| 2       | Februarius   | Midwinter                                         |
-| 3       | Martius      | Spring kicks in                                   |
-| 4       | Aprilis      | Full spring (Spring equinox \~5-6)                |
-| 5       | Maius        | Floral bloom                                      |
-| 6       | Junius       | Pre-solstice growth                               |
-| ---     | **Heliad**   | Leap day (inserted every 4 years after Junius 28) |
-| 7       | **Sol**      | Full summer heat (solstice 14-15)                 |
-| 8       | Julius       | More summer heat                                  |
-| 9       | Augustus     | Autumn kicks in                                   |
-| 10      | September    | Harvest (Autumn equinox September \~23-25 )       |
-| 11      | October      | Late harvest                                      |
-| 12      | November     | Cool down, dormancy returns                       |
-| 13      | December     | Full Winter                                       |
-| ---     | **Aurora**   | Year-end day (Winter solstice)                    |
+| ---     | **Aurora**   | Last year-end day (Winter solstice)               |
+| 1       | Ianuarius    | Deep dormancy, _the earth held in sacred sleep_   |
+| 2       | Februarius   | Purification and endurance, _the heart of winter's discipline_ |
+| 3       | Martius      | The stirring beneath frost, _life quickens in the soil_        |
+| 4       | Aprilis      | Blossoming light, _spring growing toward balance_ |
+|         |              | Spring Equinox falls around 5-6                   |
+| 5       | Maius        | Floral abundance, _greening and renewal_          |
+| 6       | Junius       | Green fullness before the blaze, _the climb toward solar height_ |
+| ---     | **Heliad**   | The leap of the Sun — a radiant insertion every   |
+|         |              | fourth year, after Junius 28                      |
+| 7       | **Sol**      | The zenith month, _the Sun crowned high_              |
+|         |              | Summer Solstice falls around 14-15                |
+| 8       | Julius       | Long afternoons and the warmth that lingers, _the sweet overreach of summer_  |
+| 9       | Augustus     | Amber descent, _first breath of harvest wind_     |
+| 10      | September    | Balance and gleaning, _the harvest_               |
+|         |              | Autumn Equinox September 23-25                    |
+| 11      | October      | Waning plenty, _the fields quiet_                 |
+| 12      | November     | Cooling and retreat, _the hush before the veil of frost_ |
+| 13      | December     | The darkening, _days shorten toward renewal_      |
+| ---     | **Aurora**   | The still day beyond time, Rebirth and Solstice,  |
+|         |              | where the Sun turns once again toward dawn.       |
+|         |              | _the single day that stands apart_                |
 
 
 ### Week Structure
 
-* Each month has exactly **28 days** = **4 weeks**
-* Year has **364 regular days** + **1 or 2 extra days**:
+Each month flows with the same steady rhythm: _four weeks_ of _seven days_, an even pulse
+of _28 days_.
 
-  * **365** in common years (Aurora only)
-  * **366** in leap years (Aurora + Heliad)
+The year holds _364 regular days_, with its sacred additions:
+- **Aurora** alone in common years, a single breath between cycles. _(365 days total)_
+- **Aurora** and **Heliad** in leap years, a perfect harmony of pattern and pulse. _(366 days total)_
+
+---
+
+Here time regains its poetry.  
+The months no longer tumble in arbitrary sequence but rise and fall with the sky itself.  
+The Sun's journey becomes the world's calendar — a dialogue between orbit and awareness,
+between eternity and the turning of a single, perfect year.
+
 
 ---
 
@@ -79,21 +104,11 @@ _Simulation_: Solar calendars new year day is aligned on Dec 21, 2025 (with the 
 
 ---
 
-
-## Special Days
-
-* **Aurora** (Day 365): Year-end reset, symbolizes renewal and rebirth
-* **Heliad** (Leap Day): Solar correction day every 4 years, honors the sun
-
-Both days are **outside the weekly cycle** — they are not assigned to a weekday, maintaining the 7-day week integrity year over year.
-
----
-
 ## Leap Year Rule
 
 * Same complicated shift correction rules **Approx. one leap day (Heliad) every 4 years**
 * Based on Julian principle (\~365.25 average year length)
-* Keeps the solstice aligned with Junius 28 over centuries
+* Keeps the solstice aligned over centuries
 
 ---
 

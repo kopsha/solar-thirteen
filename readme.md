@@ -2,6 +2,7 @@
 
 > A gentle reimagining of the [International Fixed Calendar](https://en.wikipedia.org/wiki/International_Fixed_Calendar)
 
+---
 
 ### Dedication
 
@@ -22,85 +23,52 @@ but as remembrance —
 a drawing once more of our reckoning  
 into the quiet orbit of the Sun.
 
-
+---
 
 ## Preface:
 
 ### The Harmonization of Time with the Heavens
 
-There are moments in history when humankind, weary of its own inventions, turns again
-to the sky for counsel.  
-The heavens, immutable in their grandeur, have always spoken a language of rhythm and
-proportion — while our calendars, born of necessity and compromise, have too often
-stuttered in reply.
+Throughout history, humanity has turned to the sky for order.  
+The heavens speak in rhythm and proportion, yet our calendars — born of compromise —  
+often fail to echo that music.  
+This work seeks not to redefine time, but to restore harmony with its cosmic pulse.
 
-This proposal seeks not to improve upon time, but to restore its harmony: to return our
-reckoning of days to the cosmic pulse from which it first arose. For millennia, the
-solstices and equinoxes governed the labors of the field, the festivals of renewal, the
-very metaphors by which we understood life and death. Yet in our mechanical precision,
-we drifted from that music.
+The year begins at the **winter solstice**, cradle of light and symbol of renewal.  
+From that still point, months unfold like verses — ascending toward the **summer
+solstice** near Sol 14–15, then descending again into contemplative dark.  
+The calendar breathes with the Earth itself: inhalation of light, exhalation of shadow.
 
-Here, the year is anchored to the winter solstice, the cradle of light and the oldest
-symbol of rebirth.  
-From that hushed beginning, the months unfold like measured verses — ascending toward the
-summer solstice, when the Sun stands still in fullness near Sol 14–15, and then descending
-once more into the contemplative dark.  
-Thus, the calendar itself becomes a reflection of the Earth’s breath: inhalation of light,
-exhalation of shadow — balance held in perpetual motion.
+Two days stand outside this rhythm — **Aurora** and **Heliad** — sacred pauses that
+bind human measure to solar truth.  
+They are not counted; they are beheld.
 
-Each month, equal in span, carries its own temperament and tone, as though time itself were
-tuned to a diatonic scale. Two days — Aurora and Heliad — step beyond the rhythm entirely,
-sacred pauses that bind the human measure to the solar truth. They are not counted; they are
-beheld.
+This is not merely a new calendar, but a re-alignment — a remembrance of the harmony
+between number, season, and star.
 
-In this design, number and symbol, geometry and grace, stand reconciled.  
-Every week turns in perfect order, yet the year retains its living pulse, its conversation
-with the stars.
-
-This is not merely a calendar — it is an act of re-alignment, a restoration of meaning to the
-march of days.  
-It invites us to inhabit time not as prisoners of its flow, but as participants in its harmony
-— to remember that each year is not a loop of labor and accounting, but a cycle of awakening,
-returning again and again to the luminous stillness from which all light begins.
-
-
-
-## Proposal:
-
-### An Astronomically Harmonized Timekeeping
-
-This calendar begins not in the blaze of summer or the bloom of spring, but in the **stillness
-of the winter solstice** — when the Earth dreams deepest, when light begins again from its
-faintest whisper. From that moment of cosmic hush, the year unfurls like a spiral of breath:  
-six months of ascending brightness, and six of gentle return.
-
-At its heart lies the *month of Sol*, the golden summit, where the *summer solstice* graces the
-*14th or 15th day*. There, the Sun stands proud and complete, midway between shadow and shadow —
-a symbol of maturity, fullness, and the quiet triumph of balance.
-
-Thus the year is not a march, but a breathing pattern: dormancy to dawn, radiance to rest — the
-same rhythm that moves the tides, the crops, the pulse of every living thing.
 
 
 ## Overview
 
-This proposal envisions a **solar-synchronous calendar** of **13 equal months**, each a perfect
-cycle of **28 days** — _four pristine weeks_ that repeat like stanzas in a song.
-And yet, two days live beyond the reach of any week — the holy pauses in time’s metronome:
-- **Aurora** — the _Rebirth Day_, following the last month; a threshold day when one year dies
-  into light and another is born.
-- **Heliad** — the _Leap of Fire_, a day set every four years after _Junius 28_, restoring harmony
-  with the Sun’s slow drift — a spark cast into time to keep its orbit true.
+The Solar Thirteen _sol(13)_ calendar proposes a solar-synchronous year of 13 equal
+months, each with 28 days — four perfect weeks, repeated with mathematical grace 
+and symbolic unity.
 
-This structure gives not only mathematical grace — every month alike, every week unbroken — but also
-a symbolic wholeness. The heavens dictate, and the calendar answers, _not with obedience, but with
-reverence_.
+Two exceptional days stand apart from all weeks:
+- **Aurora** — the _Rebirth Day_, marking the solstice and year’s renewal.
+- **Heliad** — the _Leap of Fire_, added every four years after Junius 28 to keep
+  the orbit true.
 
----
+This rhythm yields:
+- 364 regular days
+- +1 (Aurora) in common years → 365 days
+- +1 (Heliad) in leap years → 366 days
+
+A structure both simple and profound: precise enough for astronomy, poetic enough for meaning.
+
+
 
 ## Calendar Structure
-
-### Months & Days
 
 | Month # | Name         | Notes                                             |
 | ------- | ------------ | ------------------------------------------------- |
@@ -128,15 +96,6 @@ reverence_.
 |         |              | _the single day that stands apart_                |
 
 
-### Week Structure
-
-Each month flows with the same steady rhythm: _four weeks_ of _seven days_, an even pulse
-of _28 days_.
-
-The year holds _364 regular days_, with its sacred additions:
-- **Aurora** alone in common years, a single breath between cycles. _(365 days total)_
-- **Aurora** and **Heliad** in leap years, a perfect harmony of pattern and pulse. _(366 days total)_
-
 ---
 
 Here time regains its poetry.  
@@ -145,26 +104,23 @@ The Sun's journey becomes the world's calendar — a dialogue between orbit and 
 between eternity and the turning of a single, perfect year.
 
 
----
-
-
 ## Astronomical Alignment
 
-For detailed astronomical simulations, solar drift modeling, and mathematical structure,
+For the detailed astronomical simulations, solar drift modeling, and mathematical structure,
 see the [Technical Appendix](./technical_appendix.md).
 
----
 
-## Leap Year Rule
 
-The leap of the Sun — _Heliad_ — recurs every fourth year, keeping our reckoning true to the orbit.  
-See full algorithm and drift analysis in the [Technical Appendix](./technical_appendix.md).
+## Epilogue
 
----
+And if the promise of celestial harmony were not enough,  
+there is always this quiet incentive:  
+thirteen months… **thirteen salaries**.
 
-## Philosophical Notes
+For once, the motions of heaven align  
+with the longings of those who labor beneath them.
 
-* **Symmetry**: Perfect 4-week months, 13 months, and consistent seasonal anchors
-* **Simplicity**: Easier planning, no irregular month lengths
-* **Symbolism**: Aurora (Rebirth), Heliad (Sun), Sol (solar apex) add mythic and poetic depth
-* **Ecological Awareness**: Tracks plant cycles and sun-driven life rhythms more closely than the Gregorian calendar
+A year of even rhythm, generous measure,  
+and just a hint of cosmic fairness —  
+a small joke whispered between Sun and soul.
+

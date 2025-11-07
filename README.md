@@ -1,8 +1,9 @@
 # ☀️ Solar Thirteen ☀️ sol-13
 
 > A gentle reimagining of the [International Fixed Calendar](https://en.wikipedia.org/wiki/International_Fixed_Calendar)
+> 
+> Time, in this vision, is not an indifferent grid — it is a living orbit, a mirror held up to the Sun.
 
-Time, in this vision, is not an indifferent grid — it is a living orbit, a mirror held up to the Sun.
 
 ## _An Astronomically Harmonized Timekeeping Proposal_
 
@@ -32,6 +33,7 @@ And yet, two days live beyond the reach of any week — the holy pauses in time�
 This structure gives not only mathematical grace — every month alike, every week unbroken — but also
 a symbolic wholeness. The heavens dictate, and the calendar answers, _not with obedience, but with
 reverence_.
+
 ---
 
 ## Calendar Structure

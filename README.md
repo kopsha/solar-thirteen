@@ -1,11 +1,69 @@
 # ☀️ Solar Thirteen ☀️ sol-13
 
 > A gentle reimagining of the [International Fixed Calendar](https://en.wikipedia.org/wiki/International_Fixed_Calendar)
-> 
-> Time, in this vision, is not an indifferent grid — it is a living orbit, a mirror held up to the Sun.
 
 
-## _An Astronomically Harmonized Timekeeping Proposal_
+### Dedication
+
+To those who still look upward.  
+To the patient watchers of dawn, the keepers of equinox and tide,  
+who sense in every shadow and returning light  
+the pulse of a greater order.
+
+To the makers who believe that measure need not mean constraint,  
+and that precision may serve beauty.
+
+To the minds who find reverence in structure,  
+and the hearts who seek harmony between  
+the motion of the heavens and the rhythm of human days.
+
+This work is offered not as invention,  
+but as remembrance —  
+a drawing once more of our reckoning  
+into the quiet orbit of the Sun.
+
+
+
+## Preface: The Harmonization of Time with the Heavens
+
+There are moments in history when humankind, weary of its own inventions, turns again
+to the sky for counsel.  
+The heavens, immutable in their grandeur, have always spoken a language of rhythm and
+proportion — while our calendars, born of necessity and compromise, have too often
+stuttered in reply.
+
+This proposal seeks not to improve upon time, but to restore its harmony: to return our
+reckoning of days to the cosmic pulse from which it first arose. For millennia, the
+solstices and equinoxes governed the labors of the field, the festivals of renewal, the
+very metaphors by which we understood life and death. Yet in our mechanical precision,
+we drifted from that music.
+
+Here, the year is anchored to the winter solstice, the cradle of light and the oldest
+symbol of rebirth.  
+From that hushed beginning, the months unfold like measured verses — ascending toward the
+summer solstice, when the Sun stands still in fullness near Sol 14–15, and then descending
+once more into the contemplative dark.  
+Thus, the calendar itself becomes a reflection of the Earth’s breath: inhalation of light,
+exhalation of shadow — balance held in perpetual motion.
+
+Each month, equal in span, carries its own temperament and tone, as though time itself were
+tuned to a diatonic scale. Two days — Aurora and Heliad — step beyond the rhythm entirely,
+sacred pauses that bind the human measure to the solar truth. They are not counted; they are
+beheld.
+
+In this design, number and symbol, geometry and grace, stand reconciled.  
+Every week turns in perfect order, yet the year retains its living pulse, its conversation
+with the stars.
+
+This is not merely a calendar — it is an act of re-alignment, a restoration of meaning to the
+march of days.  
+It invites us to inhabit time not as prisoners of its flow, but as participants in its harmony
+— to remember that each year is not a loop of labor and accounting, but a cycle of awakening,
+returning again and again to the luminous stillness from which all light begins.
+
+
+
+## Proposal: _An Astronomically Harmonized Timekeeping_
 
 This calendar begins not in the blaze of summer or the bloom of spring, but in the **stillness
 of the winter solstice** — when the Earth dreams deepest, when light begins again from its

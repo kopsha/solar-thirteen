@@ -98,29 +98,21 @@ A structure both simple and profound: precise enough for astronomy, poetic enoug
 
 ---
 
-Here time regains its poetry.  
-The months no longer tumble in arbitrary sequence but rise and fall with the sky itself.  
-The Sun's journey becomes the world's calendar — a dialogue between orbit and awareness,
-between eternity and the turning of a single, perfect year.
-
-
-## Astronomical Alignment
-
 For the detailed astronomical simulations, solar drift modeling, and mathematical structure,
 see the [Technical Appendix](./technical_appendix.md).
-
 
 
 ## Epilogue
 
 And if the promise of celestial harmony were not enough,  
 there is always this quiet incentive:  
-thirteen months… **thirteen salaries**.
+thirteen months… *thirteen salaries*.
 
 For once, the motions of heaven align  
 with the longings of those who labor beneath them.
 
 A year of even rhythm, generous measure,  
-and just a hint of cosmic fairness —  
-a small joke whispered between Sun and soul.
+and just a hint of cosmic fairness:  
+the heavens turn, and payroll follows.
 
+Balance at last.

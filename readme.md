@@ -84,7 +84,7 @@ same rhythm that moves the tides, the crops, the pulse of every living thing.
 
 ## Overview
 
-This proposal envisions a **solar-synchronous calendar** of **13 equal months*, each a perfect
+This proposal envisions a **solar-synchronous calendar** of **13 equal months**, each a perfect
 cycle of **28 days** — _four pristine weeks_ that repeat like stanzas in a song.
 And yet, two days live beyond the reach of any week — the holy pauses in time’s metronome:
 - **Aurora** — the _Rebirth Day_, following the last month; a threshold day when one year dies

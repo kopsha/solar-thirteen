@@ -24,7 +24,9 @@ into the quiet orbit of the Sun.
 
 
 
-## Preface: The Harmonization of Time with the Heavens
+## Preface:
+
+### The Harmonization of Time with the Heavens
 
 There are moments in history when humankind, weary of its own inventions, turns again
 to the sky for counsel.  
@@ -63,7 +65,9 @@ returning again and again to the luminous stillness from which all light begins.
 
 
 
-## Proposal: _An Astronomically Harmonized Timekeeping_
+## Proposal:
+
+### An Astronomically Harmonized Timekeeping
 
 This calendar begins not in the blaze of summer or the bloom of spring, but in the **stillness
 of the winter solstice** — when the Earth dreams deepest, when light begins again from its

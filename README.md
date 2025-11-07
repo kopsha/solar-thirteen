@@ -33,19 +33,19 @@ This structure offers perfect regularity (every month has exactly 4 weeks), reli
 | ------- | ------------ | ------------------------------------------------- |
 | 1       | Ianuarius    | Deep dormancy (post-winter solstice)              |
 | 2       | Februarius   | Midwinter                                         |
-| 3       | Martius      | Spring equinox \~ Martius 7                       |
-| 4       | Aprilis      | Full spring                                       |
+| 3       | Martius      | Spring kicks in                                   |
+| 4       | Aprilis      | Full spring (Spring equinox \~5-6)                |
 | 5       | Maius        | Floral bloom                                      |
 | 6       | Junius       | Pre-solstice growth                               |
 | ---     | **Heliad**   | Leap day (inserted every 4 years after Junius 28) |
-| 7       | **Sol**      | Begins with solar maturity, follows solstice      |
-| 8       | Julius       | Traditional July                                  |
-| 9       | Augustus     | Traditional August                                |
-| 10      | September    | Autumn equinox \~ September 7                     |
+| 7       | **Sol**      | Full summer heat (solstice 14-15)                 |
+| 8       | Julius       | More summer heat                                  |
+| 9       | Augustus     | Autumn kicks in                                   |
+| 10      | September    | Harvest (Autumn equinox September \~23-25 )       |
 | 11      | October      | Late harvest                                      |
-| 12      | November     | Cooling, dormancy returns                         |
-| 13      | December     | Winter solstice \~ December 7                     |
-| ---     | **Aurora**   | Year-end day, symbolic "Rebirth"                  |
+| 12      | November     | Cool down, dormancy returns                       |
+| 13      | December     | Full Winter                                       |
+| ---     | **Aurora**   | Year-end day (Winter solstice)                    |
 
 
 ### Week Structure

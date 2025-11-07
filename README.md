@@ -73,7 +73,7 @@ _Simulation_: Solar calendars new year day is aligned on Dec 21, 2025 (with the 
 | Spring Equinox    | Friday, April 5, 2026      | \~ March 20, 2026       |
 | Summer Solstice   | Sunday, Sol 14, 2026       | \~ June 21, 2026        |
 | Autumn Equinox    | Wedns., September 25, 2026 | \~ September 23, 2026   |
-| one day before    | Sunday, December 28, 2026  | \~ December 20, 2026    |
+| Solar year ends   | Sunday, December 28, 2026  | \~ December 20, 2026    |
 | Winter Solstice   | Aurora, 2026               | \~ December 21, 2026    |
 
 

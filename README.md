@@ -73,13 +73,30 @@ _Simulation_: both calendars align on Dec 21, 2025 (with the winter soltice)
 
 | Event             |        Calendar Day        |  Gregorian Equivalent   |
 | ----------------- | -------------------------- | ----------------------- |
-| Winter Solstice   | Sunday, December 21, 2025  | \~ December 21, 2025    |
-| New year wholeday | -x-, Aurora, 2025/2026     | \~ December 29, 2025    |
+| Winter Solstice   | Sunday, December 28, 2025  | \~ December 21, 2025    |
+| New year wholeday | -x-, Aurora, 2025/2026     | \~ December 22, 2025    |
+| Old new year      | this means nothing (Thur.) | \~ January 1st, 2026    |
+| Spring Equinox    | Friday, April 5, 2026      | \~ March 20, 2026       |
+| Summer Solstice   | Saturday, Sol 13, 2026     | \~ June 21, 2026        |
+| Autumn Equinox    | Tues., September 23, 2026  | \~ September 23, 2026   |
+| Winter Solstice   | Sunday, December 28, 2026  | \~ December 21, 2026    |
+| New year wholeday | -x-, Aurora, 2026/2027     | \~ December 22, 2025    |
+
+
+### Equinox & Solstice Placements (Proposed)
+
+_Simulation_: Solar calendars new year day is aligned on Dec 21, 2025 (with the winter soltice)
+
+| Event             |        Calendar Day        |  Gregorian Equivalent   |
+| ----------------- | -------------------------- | ----------------------- |
+| Winter Solstice   | Aurora, 2025/2026          | \~ December 21, 2025    |
+| Winter Solstice   | special day outside week   |                         |
 | Old new year      | this means nothing (Thur.) | \~ January 1st, 2026    |
 | Spring Equinox    | Friday, March 26, 2026     | \~ March 20, 2026       |
 | Summer Solstice   | Saturday, Sol 6, 2026      | \~ June 21, 2026        |
 | Autumn Equinox    | Tues., September 16, 2026  | \~ September 23, 2026   |
 | Winter Solstice   | Sunday, December 21, 2026  | \~ December 21, 2026    |
+
 
 ---
 

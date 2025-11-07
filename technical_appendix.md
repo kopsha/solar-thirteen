@@ -80,7 +80,7 @@ A long-term correction (optional) could mirror the Gregorian refinement:
 
 ## 4. Astronomical Alignment Simulation
 
-| Event             | Solar-13 Day              | Gregorian Equivalent (2025–2026) |
+| Event             | Sol(13) Day               | Gregorian Equivalent (2025–2026) |
 | ----------------- | ------------------------- | -------------------------------- |
 | Winter Solstice   | Aurora, 2025              | * Dec 21, 2025 |
 | New Year Begins   | Monday, Ianuarius 1, 2026 | * Dec 22, 2025 |
@@ -137,11 +137,10 @@ Its structure satisfies the demands of both reason and rhythm:
 
 | Principle | Expression |
 | ---------- | ----------- |
-| **Symmetry** | 13 equal months × 28 days |
+| **Symmetry** | perfect 4-week months and 13-fold balance |
 | **Harmony** | Anchored to solstice; balanced ascent/descent of light |
-| **Regularity** | Fixed weeks and days per month |
 | **Continuity** | Drift corrected by simple leap logic |
-| **Beauty** | Aurora and Heliad connect calculation with cosmic meaning |
+| **Beauty** | Leap days (_Aurora_ and _Heliad_) are always holidays, outside work and routine |
 
 It is a calendar designed not merely to measure time, but to *honor* it — to make
 precision and poetry the same endeavor.

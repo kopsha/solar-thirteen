@@ -150,29 +150,15 @@ between eternity and the turning of a single, perfect year.
 
 ## Astronomical Alignment
 
-### Fixed Anchor: Winter Solstice
-
-_Simulation_: Solar calendars new year day is aligned on Dec 21, 2025 (with the winter soltice)
-
-| Event             |        Calendar Day        |  Gregorian Equivalent   |
-| ----------------- | -------------------------- | ----------------------- |
-| Winter Solstice   | Aurora, 2025               | * December 21, 2025     |
-| Solar year starts | Monday, January 1st, 2026  | * December 22, 2025     |
-| ~Old new year~    | ~Thurs., January 11, 2026~ | * ~January 1st, 2026~   |
-| Spring Equinox    | Friday, April 5, 2026      | * March 20, 2026        |
-| Summer Solstice   | Sunday, Sol 14, 2026       | * June 21, 2026         |
-| Autumn Equinox    | Wedns., September 25, 2026 | * September 23, 2026    |
-| Solar year ends   | Sunday, December 28, 2026  | * December 20, 2026     |
-| Winter Solstice   | Aurora, 2026               | * December 21, 2026     |
-
+For detailed astronomical simulations, solar drift modeling, and mathematical structure,
+see the [Technical Appendix](./technical_appendix.md).
 
 ---
 
 ## Leap Year Rule
 
-* Same complicated shift correction rules **Approx. one leap day (Heliad) every 4 years**
-* Based on Julian principle (365.25 average year length)
-* Keeps the solstice aligned over centuries
+The leap of the Sun — _Heliad_ — recurs every fourth year, keeping our reckoning true to the orbit.  
+See full algorithm and drift analysis in the [Technical Appendix](./technical_appendix.md).
 
 ---
 

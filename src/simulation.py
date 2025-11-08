@@ -37,6 +37,7 @@ class Sol13Date:
     ordinal: int
     gregorian_ref = date(2025, 12, 21)
     EPOCH_YEAR = 2026
+    FIRST_LEAP_YEAR = 2028
 
     @staticmethod
     def is_leap_year(year):
@@ -65,8 +66,9 @@ class Sol13Date:
         assert self.year >= self.EPOCH_YEAR
 
         days_since_epoch = (self.year - self.EPOCH_YEAR) * 365
-        for yi in range(2026, self.year, 4):
-            days_since_epoch += self.is_leap_year(yi)
+        days_since_epoch += sum(
+            self.is_leap_year(yi) for yi in range(self.FIRST_LEAP_YEAR, self.year, 4)
+        )
 
         days_since_epoch += self.ordinal
         return self.gregorian_ref + timedelta(days=days_since_epoch)

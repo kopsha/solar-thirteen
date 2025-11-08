@@ -1,4 +1,5 @@
 from dataclasses import dataclass
+from datetime import date, timedelta
 from enum import Enum
 
 
@@ -34,6 +35,13 @@ class Sol13Weekday(Enum):
 class Sol13Date:
     year: int
     ordinal: int
+    gregorian_ref = date(2025, 12, 21)
+    EPOCH_YEAR = 2026
+
+    @staticmethod
+    def is_leap_year(year):
+        """Determine whether a year is a leap year."""
+        return year % 4 == 0 and (year % 100 != 0 or year % 400 == 0)
 
     @property
     def month(self):
@@ -53,9 +61,19 @@ class Sol13Date:
     def __str__(self):
         return self.format()
 
+    def as_gregorian(self):
+        assert self.year >= self.EPOCH_YEAR
+
+        days_since_epoch = (self.year - self.EPOCH_YEAR) * 365
+        for yi in range(2026, self.year, 4):
+            days_since_epoch += self.is_leap_year(yi)
+
+        days_since_epoch += self.ordinal
+        return self.gregorian_ref + timedelta(days=days_since_epoch)
+
 
 class Sol13Calendar:
-    WEEKDAYS_HEADER = ["# ", *(wd.name.title() for wd in Sol13Weekday)]
+    weekdays_header = ["# ", *(wd.name.title() for wd in Sol13Weekday)]
 
     def format_month_line(self, year, month, width):
         mo = Sol13Month(month)
@@ -65,7 +83,7 @@ class Sol13Calendar:
     def format_weekday_line(self, col_width, spacing):
         separator = " " * spacing
         return separator.join(
-            f"{name[:col_width]:>{col_width}}" for name in self.WEEKDAYS_HEADER
+            f"{name[:col_width]:>{col_width}}" for name in self.weekdays_header
         )
 
     def format_week_line(self, week_no, col_width=2, spacing=1):
@@ -91,20 +109,22 @@ class Sol13Calendar:
 
         return lines
 
-    @staticmethod
-    def is_leap_year(year):
-        """Determine whether a year is a leap year."""
-        return year % 4 == 0 and (year % 100 != 0 or year % 400 == 0)
-
     def iter_days(self, year):
-        """Dates could stored as (year, ordinal) tuples"""
-
         yield Sol13Date(year, 0)
 
         for ordinal in range(1, 365):
             yield Sol13Date(year, ordinal)
 
-        if self.is_leap_year(year):
+        if Sol13Date.is_leap_year(year):
+            yield Sol13Date(year, 365)
+
+    def iter_weeks(self, year):
+        yield Sol13Date(year, 0)
+
+        for ordinal in range(0, 52):
+            yield Sol13Date(year, 1 + ordinal * 7)
+
+        if Sol13Date.is_leap_year(year):
             yield Sol13Date(year, 365)
 
     def iter_months(self, year):
@@ -113,7 +133,7 @@ class Sol13Calendar:
         for mo in range(0, 13):
             yield Sol13Date(year, mo * 28 + 1)
 
-        if self.is_leap_year(year):
+        if Sol13Date.is_leap_year(year):
             yield Sol13Date(year, 365)
 
 
@@ -123,11 +143,26 @@ def main():
 
     s13 = Sol13Calendar()
 
-    for mo in s13.iter_months(2028):
-        lines = s13.format_calendar_month(mo)
+    for mo in s13.iter_months(2026):
+        first, *lines = s13.format_calendar_month(mo)
+        print("***", mo, "->", mo.as_gregorian().strftime("%a, %d %b %Y"))
+        print(first)
         print(*lines, sep="\n")
         print()
 
+    for mo in s13.iter_months(2027):
+        first, *lines = s13.format_calendar_month(mo)
+        print("***", mo, "->", mo.as_gregorian().strftime("%a, %d %b %Y"))
+        print(first)
+        print(*lines, sep="\n")
+        print()
+
+    for mo in s13.iter_months(2028):
+        first, *lines = s13.format_calendar_month(mo)
+        print("***", mo, "->", mo.as_gregorian().strftime("%a, %d %b %Y"))
+        print(first)
+        print(*lines, sep="\n")
+        print()
 
 
 if __name__ == "__main__":

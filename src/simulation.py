@@ -147,21 +147,7 @@ def main():
 
     for mo in s13.iter_months(2026):
         first, *lines = s13.format_calendar_month(mo)
-        print("***", mo, "->", mo.as_gregorian().strftime("%a, %d %b %Y"))
-        print(first)
-        print(*lines, sep="\n")
-        print()
-
-    for mo in s13.iter_months(2027):
-        first, *lines = s13.format_calendar_month(mo)
-        print("***", mo, "->", mo.as_gregorian().strftime("%a, %d %b %Y"))
-        print(first)
-        print(*lines, sep="\n")
-        print()
-
-    for mo in s13.iter_months(2028):
-        first, *lines = s13.format_calendar_month(mo)
-        print("***", mo, "->", mo.as_gregorian().strftime("%a, %d %b %Y"))
+        print("*", mo.as_gregorian().strftime("%a, %d %b %Y"), "-> sol(13):", mo)
         print(first)
         print(*lines, sep="\n")
         print()

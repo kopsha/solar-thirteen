@@ -1,7 +1,0 @@
-{
-    "uuid": "solar-13@local",
-    "name": "Solar 13",
-    "description": "Renders both calendar(s) onto desktop.",
-    "shell-version": ["45", "46"],
-    "version": 1
-}

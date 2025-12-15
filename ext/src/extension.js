@@ -23,7 +23,7 @@ const Indicator = GObject.registerClass(
                 })
             )
 
-            let item = new PopupMenu.PopupMenuItem(_('Show Notification'))
+            let item = new PopupMenu.PopupMenuItem(_('React'))
             item.connect('activate', () => {
                 Main.notify(_('Whatʼs up, folks?'))
             })

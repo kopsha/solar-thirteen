@@ -21,6 +21,7 @@ main()
             ;;
         deploy)
             printf "(re)deploying extension\n"
+            echo gnome-extensions disable solar-13@local
             cd src
             zip "../${GNOME_BUNDLE}" ./*
             cd ..

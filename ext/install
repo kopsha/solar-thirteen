@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+EXT_ROOT=$(realpath ~/.local/share/gnome-shell/extensions)
+EXT_PATH="${EXT_ROOT}/solar-13@local"
+
+main()
+{
+    cmd=${1:-local}
+    case ${cmd} in
+        local)
+            printf "(re)deploying extension\n"
+            mkdir -p ${EXT_PATH}
+            gnome-extensions disable solar-13@local || true
+            cp * ${EXT_PATH}
+            gnome-extensions enable solar-13@local
+            ;;
+        *)
+            echo "Don't know $@ ..."
+            ;;
+    esac
+}
+
+main "$@"

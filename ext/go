@@ -10,9 +10,10 @@ main()
     case ${cmd} in
         deploy)
             printf "(re)deploying extension\n"
-            mkdir -p ${EXT_PATH}
-            gnome-extensions disable solar-13@local || true
-            cp * ${EXT_PATH}
+            cd src
+            zip ../solar-13@local.zip ./*
+            cd ..
+            gnome-extensions install --force solar-13@local.zip
             gnome-extensions enable solar-13@local
             ;;
         *)

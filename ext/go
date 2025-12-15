@@ -3,18 +3,29 @@ set -euo pipefail
 
 EXT_ROOT=$(realpath ~/.local/share/gnome-shell/extensions)
 EXT_PATH="${EXT_ROOT}/solar-13@local"
+VERSION=$(git describe)
+
+GNOME_BUNDLE="solar-13-bundle-v${VERSION}.zip"
 
 main()
 {
-    cmd=${1:-local}
+    cmd=${1:-dry}
     case ${cmd} in
+        dry)
+            printf "Dry running ${VERSION}\n"
+            cd src
+            zip "../${GNOME_BUNDLE}" ./*
+            cd ..
+            echo gnome-extensions install --force ${GNOME_BUNDLE}
+            echo gnome-extensions enable solar-13@local
+            ;;
         deploy)
             printf "(re)deploying extension\n"
             cd src
-            zip ../solar-13@local.zip ./*
+            zip "../${GNOME_BUNDLE}" ./*
             cd ..
-            gnome-extensions install --force solar-13@local.zip
-            gnome-extensions enable solar-13@local
+            echo gnome-extensions install --force ${GNOME_BUNDLE}
+            echo gnome-extensions enable solar-13@local
             ;;
         *)
             echo "Don't know $@ ..."

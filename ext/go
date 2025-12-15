@@ -8,7 +8,7 @@ main()
 {
     cmd=${1:-local}
     case ${cmd} in
-        local)
+        deploy)
             printf "(re)deploying extension\n"
             mkdir -p ${EXT_PATH}
             gnome-extensions disable solar-13@local || true

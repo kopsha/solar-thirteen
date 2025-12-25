@@ -1,3 +1,6 @@
+*.ppm
+*.jxl
+
 # Gnome extension bundle
 *bundle*.zip
 
